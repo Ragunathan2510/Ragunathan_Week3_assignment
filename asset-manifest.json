@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ragunathan_Week3_assignment/static/css/main.ff02f4b5.css",
+    "main.js": "/Ragunathan_Week3_assignment/static/js/main.9d67897d.js",
+    "static/js/453.ed3810f9.chunk.js": "/Ragunathan_Week3_assignment/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Ragunathan_Week3_assignment/index.html",
+    "main.ff02f4b5.css.map": "/Ragunathan_Week3_assignment/static/css/main.ff02f4b5.css.map",
+    "main.9d67897d.js.map": "/Ragunathan_Week3_assignment/static/js/main.9d67897d.js.map",
+    "453.ed3810f9.chunk.js.map": "/Ragunathan_Week3_assignment/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.9d67897d.js"
+  ]
+}
